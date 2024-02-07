@@ -74,7 +74,6 @@ function init() {
 
 function load() {
     checkLS();
-    welcomeMsg();
 }
 
 function eventListener() {
